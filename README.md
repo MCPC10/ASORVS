@@ -50,8 +50,9 @@ Profit - You can not use this work on monetized servers without permission from 
 
 
 ## Changelog:
-#### v1.4.1
+#### v1.4.1 (MCPC10)
 - added support for UAV's
+- changed reading of pos/dir from markers
 
 #### v1.4
 - first release

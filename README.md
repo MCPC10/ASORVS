@@ -1,4 +1,4 @@
-# MCPC10's ASORVS
+# MCPC10's ASORVS (Orginal author: Lecks)
 Choose and spawn vehicles with a preview in a customizable fullscreen interface consistent with ASOR Gear Selector.
 
 ## Installation / Usage:
@@ -34,9 +34,9 @@ Click Issue Vehicle to spawn the vehicle on the spawn point.
 
 
 ## Credits & Thanks:
-Lecks - Author
-ASOR for helping to iron out most of the bugs and problems.
-MCPC10 - added support for UAV's
+- Lecks - Author
+- ASOR for helping to iron out most of the bugs and problems.
+- MCPC10 - added support for UAV's
 
 
 ## License / Disclaimer:
